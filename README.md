@@ -1,4 +1,4 @@
-<img alt="coding" width=100% height=300  align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZyNndwbDZwZHFtbXkwa3Y4OXI5dm1lYzdiMWVnYThodWJjZnZuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwlFRgKo87zDW/giphy.gif">
+<img alt="coding" width=100% height=300  align="center" src="https://bpb-us-e1.wpmucdn.com/wp.wwu.edu/dist/1/4146/files/2018/11/SUV4-1f7q527.gif">
 <h1 align="center">Hi 👋, I'm Shreya Cheela</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
